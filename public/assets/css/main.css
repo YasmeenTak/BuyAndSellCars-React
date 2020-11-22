@@ -1,15 +1,3 @@
-/******************************************************************
-Theme Name: Travel 
-Description: 
-Author: Colorlib
-Author URI: 
-Version: 1.0
-Created: 
-******************************************************************/
-/*------------------------------------------------------------------
-
-
--------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [Table of contents]
 
@@ -22,10 +10,9 @@ Created:
 3.  Menu Style 
 4.  Home Page Style
 5.  About Page Style
-6.  Department Page Style
-7.  Blog Page Style
-8.  Contact Page Style
-9.  Footer Style
+6.  Blog Page Style
+7.  Contact Page Style
+8.  Footer Style
 
 -------------------------------------------------------------------*/
 /* =================================== */
@@ -3300,7 +3287,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .list-wrap ul {
-  list-style-image: url('../img/insurence/bullet.png');
+  list-style-image: url('../img/details/bullet.png');
 }
 
 .list-wrap li {
